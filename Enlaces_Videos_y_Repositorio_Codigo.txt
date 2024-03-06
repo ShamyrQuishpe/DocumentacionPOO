@@ -1,0 +1,11 @@
+Links de los videos respectivos
+
+Manual de usuario: https://www.youtube.com/watch?v=KzBZaksjYWA&ab_channel=ShamyrQuishpe
+
+JavaDOC: https://youtu.be/0H7QLp4RMNQ?si=mCkRySu5fPC9OaYA
+
+GeneracionFactura: https://youtu.be/Z34U1yhiV34?si=WiIJ1CU6mudDC1qP
+
+Repositorio del Codigo del proyecto
+
+Link GitHub: https://github.com/ShamyrQuishpe/Proyectofinal
